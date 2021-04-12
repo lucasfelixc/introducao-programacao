@@ -6,10 +6,10 @@ Baixe a versão que corresponde à arquitetura do seu computador: [64 bits](http
 
 Depois de instalar o Cygwin, precisamos adicioná-lo á variável de ambiente PATH do Windows:
 - Clique no botão iniciar e digite variáveis de ambiente .
-Na janela Propriedades do Sistema clique na aba Avançado e depois em Variáveis de Ambiente .
-Vá até a seção Variáveis do Sistema e procure pela variável Path . Clique duas vezes sobre ela para abrir a lista.
-Use o botão Novo e na linha digitável que é habilitada, insira o caminho da pasta cygwin/bin . Esse caminho é referente ao local em que você escolheu para instalar o compilador no seu computador. No exemplo dado aqui, o caminho foi C:\gygwin64\bin . Clique em OK para salvar.
-Para conferir se a instalação está correta, abra uma janela de terminal (janela de comandos — cmd) e digite gcc --version . Se estiver tudo ok, você verá a versão do compilador instalado.
+- Na janela Propriedades do Sistema clique na aba Avançado e depois em Variáveis de Ambiente .
+- Vá até a seção Variáveis do Sistema e procure pela variável Path . Clique duas vezes sobre ela para abrir a lista.
+- Use o botão Novo e na linha digitável que é habilitada, insira o caminho da pasta cygwin/bin . Esse caminho é referente ao local em que você escolheu para instalar o compilador no seu computador. No exemplo dado aqui, o caminho foi C:\gygwin64\bin . Clique em OK para salvar.
+- Para conferir se a instalação está correta, abra uma janela de terminal (janela de comandos — cmd) e digite gcc --version . Se estiver tudo ok, você verá a versão do compilador instalado.
 
 ### Manualmente
 
